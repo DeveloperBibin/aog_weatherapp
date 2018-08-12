@@ -6,7 +6,7 @@
   const {dialogflow,Permission,BasicCard,SimpleResponse,Image,Suggestions} = require('actions-on-google');
 
 
-  const MapsApiKey='YOURKEY';
+  const MapsApiKey='YOUR_KEY';
 
   const functions = require('firebase-functions');
   var finalname;
